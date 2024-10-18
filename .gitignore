@@ -1,0 +1,14 @@
+# Ignore the Visual Studio Code settings directory
+.vscode/
+
+# Ignore compiled source files
+*.exe
+
+# Optional: Ignore object files and backup files
+*.o
+*.out
+*~
+
+#Ignore files
+main.c
+show.c
