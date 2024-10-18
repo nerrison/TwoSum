@@ -21,7 +21,7 @@ The **TwoSum** program is a simple yet efficient implementation of the classic T
 
 1. **Clone the repository** (or create a new file):
    ```bash
-   git clone https:/github.com/cnerrison/TwoSum.git
+   git clone https:/github.com/nerrison/TwoSum.git
    cd TwoSum
    ```
 
